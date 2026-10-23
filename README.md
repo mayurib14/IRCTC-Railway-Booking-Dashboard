@@ -55,7 +55,7 @@ IRCTC-Railway-Booking-Dashboard
 ├── irctc_business_insights.xlsx
 │   └── Excel dataset containing railway booking records
 │
-├── IRCTC_Railway_Booking_Dashboard.pbix
+├── irctc_railway_booking_Dashboard.pbix
 │   └── Power BI dashboard project file
 │
 ├── dashboard_screenshot.png
